@@ -28,7 +28,7 @@ class Student {
 }
 
 // Main class
-public class StudentRecordSystem {
+public class student {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         ArrayList<Student> students = new ArrayList<>();
